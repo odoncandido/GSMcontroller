@@ -57,8 +57,10 @@ Baixe ou clone este repositório:
 ```bash
 git clone https://github.com/odoncandido/GSMController.git
 
-# Estrutura
+## 🏗️ Estrutura do projeto
+
 ```
+
 GSMController/
 ├── src/
 │   ├── GSMController.cpp
@@ -78,4 +80,6 @@ GSMController/
 ├── README.md
 ├── LICENSE
 └── keywords.txt
+
+
 ```
