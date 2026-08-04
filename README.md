@@ -56,3 +56,26 @@ Baixe ou clone este repositório:
 
 ```bash
 git clone https://github.com/odoncandido/GSMController.git
+
+# Estrutura
+```
+GSMController/
+├── src/
+│   ├── GSMController.cpp
+│   └── GSMController.h
+│
+├── examples/
+│   ├── Basic/
+│   │   └── Basic.ino
+│   │
+│   ├── SendSMS/
+│   │   └── SendSMS.ino
+│   │
+│   └── ReceiveSMS/
+│       └── ReceiveSMS.ino
+│
+├── library.properties
+├── README.md
+├── LICENSE
+└── keywords.txt
+```
